@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .wrapper{
+        margin:5px 100px;
+    }
+    .header{
+        color: aqua;
+        font-size: 60px;
+        font-family: cursive;
+        text-align: center;
+        padding-left: 50px;
+        padding-top: 10px;
+        padding-bottom: 30px;
+        text-shadow: 1px 1px rebeccapurple;
+    }
+    .navigation >ul{
+        background-color: aqua;
+        height: 40px;
+        list-style: none;
+        padding-left: 30px;
+    }
+    .navigation >ul >li{
+        display: inline-block;
+        padding: 10px;
+    }
+    .navigation >ul >li >a{
+        text-decoration: none;
+        color: aliceblue;
+        font-family: cursive;
+        font-size: 22px;
+    }
+    .navigation >ul >li:hover{
+        background-color: red;
+        height:40px;
+    }
+    .navigation >ul >li >a:hover{
+        color:blue;
+    }
+    .left-content{
+        background-color: #fff;
+        min-height:530px;
+        font-size:18px;
+        padding:20px;
+        width:80%;
+        float:left;
+    }
+    .left-content > img{
+        display:block;
+        width:80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 10px;
+    }
+    .right{
+        background-color: #fff;
+        min-height: 530px;
+        width:20%;
+        font-size:18px;
+        float:right;
+        border-left:solid #B3B3B3 1px;
+    }
+    .right >h1 {
+        font-family: cursive;
+        background-color: #1E92De;
+        text-align: center;
+        color: #fff;
+        padding: 5px;
+        margin-top: 2px;
+        border-top-right-radius: 20px;
+    }
+    .right >p {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding:10px;
+    }
+    .content::after{
+        content:" ";
+        display: block;
+        clear:both;
+    }
+    .footer{
+        background-color: gray;
+        height: 30px;
+    }
+</style>
+<body>
+    <div class="wrapper">
+        <h1 class="header">My Blogg</h1>
+        <div class="navigation">
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Contact</a></li>
+                <li><a href="">Views</a></li>
+            </ul>
+        </div>
+        <div class="content">
+            <div class="left-content">
+                <img src="./cat.png" alt="">
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo quia labore fuga! Tempore earum 
+                    molestiae alias non mollitia suscipit impedit nam ipsa maiores facilis tempora nesciunt aut 
+                    accusamus odit, exercitationem asperiores aliquam pariatur inventore ipsam repellendus. 
+                    Cumque suscipit consectetur enim sed recusandae libero corporis necessitatibus quaerat 
+                    optio odio voluptatum a facilis numquam reiciendis, iusto harum alias atque, nam distinctio 
+                    autem vel. Eligendi velit voluptatum quia, facere eius, hic veritatis voluptatibus ab, aliquam 
+                    excepturi et vitae corrupti alias amet porro perspiciatis?
+                </p>
+            </div>
+            <aside class="right">
+                <h1>About Us</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione voluptatem totam nulla iusto 
+                    ex earum saepe aperiam possimus quis ullam ab, provident velit ut voluptatibus? Beatae, ipsa 
+                    iusto laudantium sequi quas error a! Facere sunt sequi corrupti optio dolorem voluptas, enim 
+                    a omnis! Iste repudiandae perspiciatis quasi magni maxime dignissimos!
+                </p>
+            </aside>
+        </div>
+        <div class="footer">Prince Kumar @2023</div>
+    </div>
+</body>
+</html>
