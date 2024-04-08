@@ -13,6 +13,25 @@
 
 ### HTML CODE
 ```
-
+<div class="wrapper">
+        <header class="header"></header>
+        <nav class="navigation"></nav>
+        <div class="content">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium incidunt ipsa ex, quod sapiente perspiciatis vel earum, deleniti assumenda, mollitia fugit? Neque cupiditate nemo ad beatae incidunt commodi perferendis amet?
+                Vitae iste necessitatibus facere ullam eaque ratione quia fugiat asperiores voluptatum dolorum rem facilis repudiandae nostrum corporis dolorem, libero pariatur molestiae! Ipsam sed cumque error accusamus vel quisquam magni? At.
+                Unde error accusamus at soluta odio explicabo ex, et, laudantium accusantium nihil earum eveniet, nemo ipsa minus iusto laboriosam vitae tenetur tempora amet ea sint! Blanditiis corrupti autem fugit inventore.
+                Repellat quisquam molestias blanditiis quod a pariatur tenetur quas quasi animi qui nemo assumenda odit deleniti, maxime enim distinctio itaque laborum dolore, maiores magni cupiditate hic consectetur quis. Recusandae, ad.
+                Veritatis beatae asperiores magnam placeat, possimus voluptatum delectus dicta necessitatibus debitis perspiciatis dolorum, ullam quam mollitia autem officiis. Voluptas minus nesciunt, quaerat quibusdam est adipisci. Quidem facilis at quis in.
+                Repudiandae ex nihil dignissimos officia ut ipsum voluptatibus ratione illum, dolorum deserunt accusamus iusto cumque aspernatur eveniet sed sint in hic neque reprehenderit. Laudantium soluta quod quo eaque explicabo illo.
+                Blanditiis pariatur reprehenderit saepe ea omnis? In, velit quidem molestiae voluptatum ipsum eveniet ullam et id consequatur earum ex, deserunt vel animi? Culpa mollitia libero quia cupiditate tempora illo nam.
+                Reprehenderit autem vel accusantium ab ipsam perferendis. Eaque doloremque veritatis qui, esse, beatae temporibus quaerat sit explicabo reprehenderit libero autem iusto eligendi quasi voluptatum culpa ad possimus neque est nemo.
+                Explicabo minus reiciendis sequi hic, pariatur magni deserunt ipsum aspernatur quis iure, dolorem porro dicta ratione delectus voluptate eligendi recusandae dignissimos ad inventore error dolor vitae. Blanditiis esse nam delectus?
+                Eveniet repudiandae ducimus ut, debitis alias iusto, id corporis, dolor eligendi enim itaque! Aperiam sit quidem nisi nihil voluptatum explicabo ullam, est earum iusto, similique quo veritatis corporis officiis delectus?
+            </p>
+            
+        </div>
+        <div class="footer"></div>
+    </div>
 
 ```
