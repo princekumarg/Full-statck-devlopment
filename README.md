@@ -68,3 +68,8 @@
     }
 
 ```
+### Output
+```
+<img width="894" alt="image" src="https://github.com/princekumarg/Full-statck-devlopment/assets/86905668/4ff5e19d-3414-4d50-b55a-720b8d2abae5">
+
+```
