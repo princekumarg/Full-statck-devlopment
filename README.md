@@ -8,3 +8,11 @@
 <img width="1050" alt="Screenshot 2023-05-31 191817" src="https://github.com/princekumarg/Full-statck-devlopment/assets/86905668/1371ee58-d3a5-44ca-a68a-01c956fe8010">
 <h1>My Resume Using webdev</h1>
 <img width="1048" alt="Screenshot 2023-05-31 191840" src="https://github.com/princekumarg/Full-statck-devlopment/assets/86905668/828f51d4-1733-4004-97e0-007d93d578f3">
+
+# ***** 1 Column Layout *****
+
+### HTML CODE
+```
+
+
+```
