@@ -37,5 +37,34 @@
 ```
 ### CSS CODE
 ```
+*{
+        padding: 0px;
+        margin:0px;
+    }
+    .wrapper{
+        border:solid red 5px;
+        margin:5px 100px;
+    }
+    .header{
+        background-color: aqua;
+        height: 150px;
+    }
+    .navigation{
+        background-color: antiquewhite;
+        height:70px;
+    }
+    .content{
+        background-color: aquamarine;
+        height:350px;
+        
+    }
+    .content > p{
+        padding: 0px 5px 0px 5px;
+        text-align: justify;
+    }
+    .footer{
+        background-color: darkgray;
+        height:50px;
+    }
 
 ```
